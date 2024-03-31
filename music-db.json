@@ -1,0 +1,22 @@
+{
+  "music": [
+    {
+      "id": "0",
+      "title": "Texas Hold 'Em",
+      "artist": "Beyonce",
+      "category": "Country"
+    },
+    {
+      "id": "1",
+      "title": "We Will Rock You",
+      "artist": "Queen",
+      "category": "Rock"
+    },
+    {
+      "id": "2",
+      "title": "Candle In The Wind",
+      "artist": "Elton John",
+      "category": "Classical"
+    }
+  ]
+}
